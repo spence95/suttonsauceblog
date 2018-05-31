@@ -1,0 +1,28 @@
+.Navigation {
+    position:absolute;
+    left:0;
+    top: 0;
+    bottom:0;
+    width: 200px;
+    background-color: turquoise;
+}
+
+.NavigationHeader {
+    height:0px;
+}
+
+.NavItems {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.NavItem {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0px;
+    padding: 5px 0px;
+    background-color: white;
+    cursor: pointer;
+    font-weight: bold;
+}

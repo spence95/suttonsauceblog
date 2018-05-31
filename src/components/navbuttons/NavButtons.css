@@ -1,0 +1,27 @@
+.NavButton {
+    background-color: rgb(82, 175, 204);
+    border-radius: 5px;
+    text-transform: uppercase;
+    width: 50px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 0px rgb(155, 154, 154);
+}
+
+.NavButton:active {
+    background-color:rgb(33, 70, 82);
+}
+
+.NavButtons {
+    margin-top: 25px;
+}
+
+.Left {
+    float: left;
+}
+
+.Right {
+    float: right;
+}

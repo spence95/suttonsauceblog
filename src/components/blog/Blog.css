@@ -1,0 +1,14 @@
+.Blog {
+    text-align: left;
+    max-width: 800px;
+    height: 100vh;
+    display:block;
+    margin: 0 auto;
+}
+
+.Content {
+    background-color: rgb(238, 236, 236);
+    float:left;
+    height: 100vh;
+    padding: 20px;
+}
